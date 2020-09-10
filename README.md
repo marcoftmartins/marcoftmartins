@@ -11,15 +11,13 @@
 - 🎓 &nbsp; Studying Computer Science at University IPMAIA.
 - 🌱 &nbsp; Learning more about Web Development, Databases and Mobile Apps.
 - ✍️ &nbsp; Love Graphic Design and Listening to music as hobbies/side hustles.
-
-</br>
 <hr>
-
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; C# | Java |
 - 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS
 - 🛢 &nbsp; MySQL
 - 🖥 &nbsp; Illustrator| Photoshop | Sony Vegas | After Effects
+</br>
 
 [![marcoftmartins's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcoftmartins&show_icons=true)](https://github.com/marcoftmartins)

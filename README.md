@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<!--
-**marcoftmartins/marcoftmartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/marcoftmartins">
+  <img align="left" alt="marcoftmartins's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
-Here are some ideas to get you started:
+<h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; Studying Computer Science at University IPMAIA.
+- 🌱 &nbsp; Learning more about Web Development, Databases and Mobile Apps.
+- ✍️ &nbsp; Love Graphic Design and Listening to music as hobbies/side hustles.
+
+[![marcoftmartins's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcoftmartins&show_icons=true)](https://github.com/marcoftmartins)

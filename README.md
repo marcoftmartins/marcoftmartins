@@ -12,8 +12,8 @@
 - 🌱 &nbsp; Learning more about Web Development, Databases and Mobile Apps.
 - ✍️ &nbsp; Love Graphic Design and Listening to music as hobbies/side hustles.
 </br>
-<hr>
 
+<hr>
 
 <h3>🛠 Tech Stack</h3>
 

@@ -3,6 +3,7 @@
 <a href="https://github.com/marcoftmartins">
   <img align="left" alt="marcoftmartins's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<br>
 
 <h3> 👨🏻‍💻 About Me </h3>
 

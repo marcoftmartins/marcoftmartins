@@ -6,6 +6,7 @@
 </br>
 
 <h3> 👨🏻‍💻 About Me </h3>
+
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science at University IPMAIA.
 - 🌱 &nbsp; Learning more about Web Development, Databases and Mobile Apps.
@@ -13,6 +14,7 @@
 
 </br>
 <hr>
+
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; C# | Java |

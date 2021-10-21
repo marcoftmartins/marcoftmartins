@@ -1,10 +1,5 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<a href="https://github.com/marcoftmartins">
-  <img align="left" alt="marcoftmartins's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-</br>
-
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
@@ -20,4 +15,9 @@
 - 🖥 &nbsp; Illustrator| Photoshop | Sony Vegas | After Effects
 </br>
 
-[![marcoftmartins's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcoftmartins&show_icons=true)](https://github.com/marcoftmartins)
+<a href="https://github.com/marcoftmartins">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcoftmartins&show_icons=true&bg_color=45,29003d,140033&title_color=fff&text_color=fff&icon_color=5c00cc" />
+</a>
+<a href="https://github.com/marcoftmartins">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoftmartins&layout=compact&bg_color=45,29003d,140033&title_color=fff&text_color=fff" />
+</a>

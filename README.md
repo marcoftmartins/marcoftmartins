@@ -9,7 +9,7 @@
 <hr>
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C# | Java |
+- 💻 &nbsp; C# | C | Java |
 - 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS
 - 🛢 &nbsp; MySQL
 - 🖥 &nbsp; Illustrator| Photoshop | Sony Vegas | After Effects

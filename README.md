@@ -1,5 +1,4 @@
 
-<div align="center" ><img src="https://media4.giphy.com/media/SWVvQIBDkNyGL9rIzz/giphy-downsized-medium.gif"/></div>
 <h1 align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hello World! My name is Marco</h1>
 <img src="https://gpvc.arturio.dev/marcoftmartins" align="center">
 

@@ -18,10 +18,11 @@
 - 🛢 &nbsp; MySQL
 - 🖥 &nbsp; Illustrator| Photoshop | Sony Vegas | After Effects
 </br>
+</br>
 
 <div align="center">
   <a href="https://github.com/marcoftmartins">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcoftmartins&show_icons=true&bg_color=45,29003d,140033&title_color=fff&text_color=fff&icon_color=5c00cc" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcoftmartins&show_icons=true&bg_color=45,29003d,140033&title_color=fff&text_color=fff&icon_color=5c00cc"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoftmartins&layout=compact&bg_color=45,29003d,140033&title_color=fff&text_color=fff"/>
   </a>
 </div>

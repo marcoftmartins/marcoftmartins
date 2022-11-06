@@ -1,8 +1,14 @@
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hello World! My name is Marco</h1>
-<img src="https://gpvc.arturio.dev/marcoftmartins" align="center">
+<h1 align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hello World! I'm Marco</h1>
+<p align="center">I'm a 24 years old developer from Porto, Portugal. Currently studying computer science at ISMAI. My hobbies are playing games and going to the gym.</p>
+<!-- <div align="center">
+  <img src="https://gpvc.arturio.dev/marcoftmartins" align="center">
+  <a href="https://github.com/marcoftmartins?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/marcoftmartins?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/marcoftmartins?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/marcoftmartins?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+</div> !-->
 
-<img align="right" src="https://media3.giphy.com/media/XbV2mrHs6ureBPUEuJ/giphy.gif"/>
 <h3> 👨🏻‍💻 About Me </h3>
 
 
@@ -11,7 +17,9 @@
 - 🌱 &nbsp; Learning more about Web Development, Databases and Mobile Apps.
 - ✍️ &nbsp; Love Graphic Design and Listening to music as hobbies/side hustles.
 <hr>
-<h3>🛠 Tech Stack</h3>
+
+<h3>🛠 Some technologies I've worked with</h3>
+
 
 - 💻 &nbsp; C# | C | Java |
 - 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS

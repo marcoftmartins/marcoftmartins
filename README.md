@@ -1,6 +1,9 @@
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hello World! I'm Marco</h1>
+</br>
 <p align="center">I'm a 24 years old developer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909361.png" width="13"/> Porto, Portugal.  Currently studying computer science at ISMAI. When I'm not coding I spend my time going to the gym, listening to some good music and playing games. </p>
+
+
 <!-- <div align="center">
   <img src="https://gpvc.arturio.dev/marcoftmartins" align="center">
   <a href="https://github.com/marcoftmartins?tab=followers">
@@ -18,8 +21,11 @@
 - ✍️ &nbsp; Love Graphic Design and Listening to music as hobbies/side hustles.
 <hr>
 !-->
-<hr>
-<h3>🛠 Some technologies & tools I've worked with</h3>
+</br>
+
+---
+
+### 🛠 Some technologies & tools I've worked with
 
 <img align="left" alt="Html" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="left" alt="Css" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
@@ -37,10 +43,23 @@
 <img align="left" alt="VStudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-<br>
-<hr>
+</br>
+
+</br>
+
+---
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+ sdsad
+<!--END_SECTION:activity-->
+
+---
 
 [![marcoftmartins GitHub stats](https://github-readme-stats.vercel.app/api?username=marcoftmartins&theme=transparent&show_icons=true)](https://github.com/marcoftmartins/github-readme-stats&theme=react&show_icons)
+
+</br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcoftmartins&theme=transparent&show_icons=true)](https://github.com/marcoftmartins/github-readme-stats&theme=transparent&show_icons=true)
 

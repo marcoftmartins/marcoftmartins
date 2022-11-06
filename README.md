@@ -52,7 +52,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
- sdsad
+
+
 <!--END_SECTION:activity-->
 
 ---

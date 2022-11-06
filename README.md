@@ -1,6 +1,6 @@
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hello World! I'm Marco</h1>
-<p align="center">I'm a 24 years old developer from Porto, Portugal. Currently studying computer science at ISMAI. My hobbies are playing games and going to the gym.</p>
+<p align="center">I'm a 24 years old developer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909361.png" width="13"/> Porto, Portugal. Currently studying computer science at ISMAI. My hobbies are playing games and going to the gym.</p>
 <!-- <div align="center">
   <img src="https://gpvc.arturio.dev/marcoftmartins" align="center">
   <a href="https://github.com/marcoftmartins?tab=followers">

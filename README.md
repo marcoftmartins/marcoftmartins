@@ -52,15 +52,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ {USERNAME} Pushed 1 commit(s) to [marcoftmartins/marcoftmartins](https://github.com/marcoftmartins/marcoftmartins)<br>
-2. ⬆️ {USERNAME} Pushed 1 commit(s) to [marcoftmartins/marcoftmartins](https://github.com/marcoftmartins/marcoftmartins)<br>
-3. ⬆️ {USERNAME} Pushed 1 commit(s) to [marcoftmartins/marcoftmartins](https://github.com/marcoftmartins/marcoftmartins)<br>
-4. ⬆️ {USERNAME} Pushed 1 commit(s) to [marcoftmartins/boraCodar-05-calculator](https://github.com/marcoftmartins/boraCodar-05-calculator)<br>
-5. ⬆️ {USERNAME} Pushed 1 commit(s) to [marcoftmartins/boraCodar-05-calculator](https://github.com/marcoftmartins/boraCodar-05-calculator)<br>
+1. ⬆️ {GH_USERNAME} Pushed 1 commit(s) to [marcoftmartins/marcoftmartins](https://github.com/marcoftmartins/marcoftmartins)<br>
+2. ⬆️ {GH_USERNAME} Pushed 1 commit(s) to [marcoftmartins/marcoftmartins](https://github.com/marcoftmartins/marcoftmartins)<br>
+3. ⬆️ {GH_USERNAME} Pushed 1 commit(s) to [marcoftmartins/marcoftmartins](https://github.com/marcoftmartins/marcoftmartins)<br>
+4. ⬆️ {GH_USERNAME} Pushed 1 commit(s) to [marcoftmartins/marcoftmartins](https://github.com/marcoftmartins/marcoftmartins)<br>
+5. ⬆️ {GH_USERNAME} Pushed 1 commit(s) to [marcoftmartins/boraCodar-05-calculator](https://github.com/marcoftmartins/boraCodar-05-calculator)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 17th, 2024, 5:45:11 PM
+Last Updated: Wednesday, January 17th, 2024, 5:46:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---

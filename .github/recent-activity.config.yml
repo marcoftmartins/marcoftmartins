@@ -1,5 +1,5 @@
 settings:
   username: "marcoftmartins" 
   commit_name: "marcoftmartins"
-  messages:
-    push: "⬆️ Pushed {AMOUNT} commit(s) to {REPO} | {DATE}"
+messages:
+  push: "⬆️ Pushed {AMOUNT} commit(s) to {REPO} | {DATE}"
